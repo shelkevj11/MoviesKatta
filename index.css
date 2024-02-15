@@ -1,0 +1,13 @@
+.cards:hover{
+   cursor: pointer;
+   background: rgba(0, 0, 0, 0.548);
+   color: white;
+}
+
+#id{
+   visibility: hidden;
+}
+
+.dropdown-item,.dropdown-item2:hover{
+   cursor: pointer;
+}
