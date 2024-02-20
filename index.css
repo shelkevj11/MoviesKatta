@@ -5,9 +5,20 @@
 }
 
 #id{
-   visibility: hidden;
+   /* visibility: hidden; */
+   display: none;
 }
 
 .dropdown-item,.dropdown-item2:hover{
    cursor: pointer;
+}
+
+.main{
+   background:url("https://images.pexels.com/photos/168442/pexels-photo-168442.jpeg?auto=compress&cs=tinysrgb&w=400");
+   
+}
+
+.navbar{
+   background: white;
+   color: black;
 }
